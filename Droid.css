@@ -1,0 +1,13 @@
+.Droid {
+  text-align: center;
+  width: 60vw;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  align-content: center;
+}
+
+.btn {
+  margin-bottom: 30px;
+}
