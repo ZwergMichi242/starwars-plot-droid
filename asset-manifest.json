@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/starwars-plot-droid/static/css/main.515adf26.chunk.css",
+    "main.js": "/starwars-plot-droid/static/js/main.0ba6eb9f.chunk.js",
+    "main.js.map": "/starwars-plot-droid/static/js/main.0ba6eb9f.chunk.js.map",
+    "runtime-main.js": "/starwars-plot-droid/static/js/runtime-main.98c3a4aa.js",
+    "runtime-main.js.map": "/starwars-plot-droid/static/js/runtime-main.98c3a4aa.js.map",
+    "static/css/2.0624914a.chunk.css": "/starwars-plot-droid/static/css/2.0624914a.chunk.css",
+    "static/js/2.5fd8c9c8.chunk.js": "/starwars-plot-droid/static/js/2.5fd8c9c8.chunk.js",
+    "static/js/2.5fd8c9c8.chunk.js.map": "/starwars-plot-droid/static/js/2.5fd8c9c8.chunk.js.map",
+    "index.html": "/starwars-plot-droid/index.html",
+    "precache-manifest.ec089a6bb62839191597ef1d4d8abb09.js": "/starwars-plot-droid/precache-manifest.ec089a6bb62839191597ef1d4d8abb09.js",
+    "service-worker.js": "/starwars-plot-droid/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/starwars-plot-droid/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.515adf26.chunk.css.map": "/starwars-plot-droid/static/css/main.515adf26.chunk.css.map",
+    "static/media/index.css": "/starwars-plot-droid/static/media/moonhouse.48419a41.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98c3a4aa.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.5fd8c9c8.chunk.js",
+    "static/css/main.515adf26.chunk.css",
+    "static/js/main.0ba6eb9f.chunk.js"
+  ]
+}
